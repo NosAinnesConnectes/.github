@@ -1,6 +1,6 @@
 #
 
-[![banner](/assets/Img/NAC%20Banner.png)](https://www.nosainesconnectes.fr/)
+[![banner](/assets/Img/NAC%20Banner.png)](https://www.nosainesconnectes.fr/)]
 
 The aim of the "[Nos Aînés connectés](https://www.nosainesconnectes.fr/)" project is to use digital technology to enhance the well-being of residents in care homes, by stimulating their cognitive and memory functions.
 
